@@ -101,7 +101,7 @@ C     91bg, csm, pec), so NST = 6
       typename(8,2) = 'TDE-H'
       typename(8,3) = 'TDE-He'
       typename(8,4) = 'TDE-H-He'
-      typename(8,5) = 'TDE-Featless'
+      typename(8,5) = 'TDE-Ftless'
 * KN
       typename(9,1) = 'KN'
       typename(9,2) = '17gfo'
