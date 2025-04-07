@@ -1,0 +1,27 @@
+cff version : 1.0.0
+message: "If you use this software, please cite the data as below and the RNAAS paper 'Super-SNID : an expanded set of SNID classes and templates for the new era of wide-field surveys'."
+authors:
+- family-names: Magill
+  given-names: Dylan
+  orcid: https://orcid.org/0009-0000-6521-8842
+- family-names: Fulton
+  given-names: Michael D.
+  orcid: https://orcid.org/0000-0003-1916-0664
+- family-names: Nicholl
+  given-names: Matt
+  orcid: https://orcid.org/0000-0002-2555-3192
+- family-names: Smartt
+  given-names: Stephen J.
+  orcid: https://orcid.org/0000-0002-8229-1731
+- family-names: Angus
+  given-names: Charlotte R.
+  orcid: https://orcid.org/0000-0002-4269-7999
+- family-names: Srivastav
+  given-names: Shubham
+  orcid: https://orcid.org/0000-0003-4524-6883
+- family-names: Smith
+  given-names: Ken W.
+  orcid: https://orcid.org/0000-0001-9535-3199
+title:dkjmagill/QUB-SNID-Templates: Data for "Super-SNID : an expanded set of SNID classes and templates for the new era of wide-field surveys"
+version: v1.0.0
+date-released: 2025-04-07
